@@ -1,7 +1,7 @@
 # Project-2: Recommender Systems
 
 ## Our Kaggle Implementation
-
+https://www.kaggle.com/code/antonion01/version-final?scriptVersionId=151386347
 
 ## Introduction
 
@@ -59,9 +59,7 @@ The project was evaluated based on the following criteria:
 ### Results - Metrics
 
 The Root Mean Squared Error (RMSE) is a standard metric to evaluate rating prediction.
-$$
-\text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}
-$$
+$RMSE = \sqrt{\frac{1}{n} \Sigma_{i=1}^{n} (y_i - \hat{y}_i)^2}$
 
 
 
