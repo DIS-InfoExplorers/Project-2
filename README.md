@@ -59,6 +59,11 @@ The project was evaluated based on the following criteria:
 ### Results - Metrics
 
 The Root Mean Squared Error (RMSE) is a standard metric to evaluate rating prediction.
+$$
+\text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}
+$$
+
+
 
 ## Constraints of project
 - It is prohibited to use existing implementations of recommender systems (addressing rating prediction or next-item prediction tasks), even if found in mentioned ressources, except for the purpose of comparing your own models.
